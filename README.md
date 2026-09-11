@@ -1,2 +1,2 @@
-# MDM-Bypass-Platinum-mac
-MDM Bypass Platinum iOS 7 - 26+
+# MDM-Research utility-Platinum-mac
+MDM Profile Research Platinum iOS 7 - 26+
